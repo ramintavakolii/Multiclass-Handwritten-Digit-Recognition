@@ -37,7 +37,7 @@ The learning curve below shows the model's training and validation accuracy (or 
 
 ## Implementation Details
 
-We will see predictions from both the NumPy model and the TensorFlow model.
+We will see predictions model:
 
 <p align="center">
   <img src="images/image3.png" alt="Model Comparison" width="600">
