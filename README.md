@@ -23,7 +23,7 @@ The neural network used in this project consists of multiple dense layers with a
 </p>
 
 The model's architecture includes:
-- **Input layer**: 784 neurons (one for each pixel).
+- **Input layer**: 25 neurons (one for each pixel).
 - **Hidden layers**: (number of neurons and specifics).
 - **Output layer**: 10 neurons (for multiclass classification).
 
@@ -40,7 +40,7 @@ The learning curve below shows the model's training and validation accuracy (or 
 We will see predictions from both the NumPy model and the TensorFlow model.
 
 <p align="center">
-  <img src="images/image3.PNG" alt="Model Comparison" width="600">
+  <img src="images/image3.png" alt="Model Comparison" width="600">
 </p>
 
 ## Usage
